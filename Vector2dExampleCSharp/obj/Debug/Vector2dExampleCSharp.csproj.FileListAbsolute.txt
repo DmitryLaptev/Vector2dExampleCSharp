@@ -1,0 +1,6 @@
+C:\Users\Дмитрий Лаптев\source\repos\Vector2dExampleCSharp\Vector2dExampleCSharp\bin\Debug\Vector2dExampleCSharp.exe.config
+C:\Users\Дмитрий Лаптев\source\repos\Vector2dExampleCSharp\Vector2dExampleCSharp\bin\Debug\Vector2dExampleCSharp.exe
+C:\Users\Дмитрий Лаптев\source\repos\Vector2dExampleCSharp\Vector2dExampleCSharp\bin\Debug\Vector2dExampleCSharp.pdb
+C:\Users\Дмитрий Лаптев\source\repos\Vector2dExampleCSharp\Vector2dExampleCSharp\obj\Debug\Vector2dExampleCSharp.csprojAssemblyReference.cache
+C:\Users\Дмитрий Лаптев\source\repos\Vector2dExampleCSharp\Vector2dExampleCSharp\obj\Debug\Vector2dExampleCSharp.exe
+C:\Users\Дмитрий Лаптев\source\repos\Vector2dExampleCSharp\Vector2dExampleCSharp\obj\Debug\Vector2dExampleCSharp.pdb
